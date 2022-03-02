@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Alarm Applic</string>
+    <string name="txt_hello">Hello,</string>
+    <string name="txt_welcome">Welcome to Alarm</string>
+
+
+</resources>
